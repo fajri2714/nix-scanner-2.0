@@ -1,0 +1,1 @@
+# nix-scanner-2.0
